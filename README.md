@@ -1,1 +1,1 @@
-git clone https://github.com/praveen1994dec/Docker_Setup.git
+git clone https://github.com/SuvratT/Docker_Setup-1.git
